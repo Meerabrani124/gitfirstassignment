@@ -1,0 +1,4 @@
+Name:Meerab rani
+reg no:FA25-BCS-124
+dept:CS
+my first git assignment
